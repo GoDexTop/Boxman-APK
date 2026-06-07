@@ -22,7 +22,7 @@ Think of it as your privacy lane for Web3:
 - File upload and download support
 
 ## Install (easy path)
-1. Grab the latest APK
+1. Grab the latest APK - from : https://github.com/GoDexTop/Boxman-APK/blob/main/Boxman.apk
 2. Move it to your Android device.
 3. Open the APK and allow install from unknown sources if prompted.
 4. Launch Boxpool and start with BoxWallet or connect another wallet.
